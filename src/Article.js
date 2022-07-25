@@ -8,3 +8,5 @@ function Article() {
 }
 
 export default Article;
+
+//Nothing to add here.
